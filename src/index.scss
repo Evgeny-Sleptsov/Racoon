@@ -1,0 +1,18 @@
+@import-normalize;
+
+html {
+  background-color: #fdd228;
+}
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+li {
+  list-style: none;
+}
+
+* {
+  box-sizing: border-box;
+}
